@@ -1,2 +1,3 @@
 # CanvasFloor_Task
-Created with CodeSandbox
+
+## Technologies Used - React and Fabric.js
